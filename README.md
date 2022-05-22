@@ -4,6 +4,12 @@
 
 - [API Link](https://api.nasa.gov/index.html)
 
+
+
+
+https://user-images.githubusercontent.com/45641833/169718641-80347daf-c847-430f-b67c-146d57e7bfc5.mp4
+
+
 ## Project Design:
 
 - **Design Tool:** Adobe XD
@@ -14,6 +20,9 @@
 
 - **Splash Animation:** Lottie Files
 
+<img width="931" alt="nasaappdesign" src="https://user-images.githubusercontent.com/45641833/169718489-afeff40a-2c16-4459-b1d7-29ef1dce8c07.png">
+
+
 ## Mockup:
 
 - Splash
@@ -23,6 +32,8 @@
 - Spirit Vehicle Page
 - Curiosity Vehicle Page 
 - Opportunity Vehicle Page 
+
+<img width="932" alt="mockup" src="https://user-images.githubusercontent.com/45641833/169718496-d90d782b-d58b-41f1-8857-c9d240253ac7.png">
 
 ## Subject:
 
